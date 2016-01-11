@@ -10,7 +10,7 @@ AndroidLua
 * 在Android中执行Lua脚本
 
 运行截图：
-
+![AndroidLua](https://github.com/mrljdx/AndroidLua/blob/master/device-2016-01-11-182403.png)
 
 包括在Android中调用lua脚本文件等
 关于Lua的应用参看文章IBM
